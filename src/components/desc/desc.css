@@ -1,0 +1,19 @@
+.desc{
+	padding: 5px;
+}
+.border-left{
+  border-bottom:1px solid #8c8b8b;
+  width:240px;
+  float:left;
+  padding: 5px;
+  
+  margin-top: -45px;
+
+}
+.border-right{
+  border-bottom:1px solid #8c8b8b;
+  width:240px;
+  float:right;
+  padding:5px;
+  margin-top: -45px;
+}
